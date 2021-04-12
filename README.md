@@ -1,4 +1,4 @@
-# PWA Examples
+# INS Sports Live!
 
 Examples for progressive web apps.
 
