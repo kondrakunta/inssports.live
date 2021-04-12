@@ -1,11 +1,11 @@
 var games = [
   {
-    slug: 'lost-in-cyberspace',
-    name: 'Lost in Cyberspace',
-    author: 'Zosia and Bartek',
-    twitter: 'bartaz',
+    slug: 'volley-ball',
+    name: 'Volley Ball',
+    author: 'Anand S Kondrakunta',
+    twitter: 'inssports_volleyball',
     website: '',
-    github: 'github.com/bartaz/lost-in-cyberspace',
+    github: 'github.com/kondrakunta/volleyball',
   },
   {
     slug: 'vernissage',
